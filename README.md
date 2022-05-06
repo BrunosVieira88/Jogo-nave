@@ -9,5 +9,5 @@
  
  jogo onde podemos controlar um helicoptero e temos que resgatar um prisioneiro.
  
- <img src="paraogit.jpg">
+ ![Screenshot](paraogit.jpg)
  
